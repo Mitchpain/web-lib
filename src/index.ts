@@ -1,1 +1,1 @@
-export { isMobile } from './isMobile/isMobile'
+export * from './isMobile'
